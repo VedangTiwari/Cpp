@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/vedan/OneDrive/Documents/cpp",
-      "program": "c:/Users/vedan/OneDrive/Documents/cpp/build/Debug/outDebug",
+      "cwd": "e:/cpp",
+      "program": "e:/cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
